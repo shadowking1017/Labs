@@ -1,0 +1,18 @@
+[09-Sep-2018 12:45:34 UTC] PHP Warning:  require(../mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Lab2/view_users.php on line 10
+[09-Sep-2018 12:45:34 UTC] PHP Stack trace:
+[09-Sep-2018 12:45:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Lab2/view_users.php:0
+[09-Sep-2018 12:45:34 UTC] PHP Fatal error:  require(): Failed opening required '../mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Lab2/view_users.php on line 10
+[09-Sep-2018 12:45:34 UTC] PHP Stack trace:
+[09-Sep-2018 12:45:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Lab2/view_users.php:0
+[09-Sep-2018 12:56:32 UTC] PHP Warning:  require(../mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Lab2/view_users.php on line 10
+[09-Sep-2018 12:56:32 UTC] PHP Stack trace:
+[09-Sep-2018 12:56:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Lab2/view_users.php:0
+[09-Sep-2018 12:56:32 UTC] PHP Fatal error:  require(): Failed opening required '../mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Lab2/view_users.php on line 10
+[09-Sep-2018 12:56:32 UTC] PHP Stack trace:
+[09-Sep-2018 12:56:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Lab2/view_users.php:0
+[09-Sep-2018 12:56:42 UTC] PHP Warning:  require(../mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Lab2/view_users.php on line 10
+[09-Sep-2018 12:56:42 UTC] PHP Stack trace:
+[09-Sep-2018 12:56:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/Lab2/view_users.php:0
+[09-Sep-2018 12:56:42 UTC] PHP Fatal error:  require(): Failed opening required '../mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Lab2/view_users.php on line 10
+[09-Sep-2018 12:56:42 UTC] PHP Stack trace:
+[09-Sep-2018 12:56:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/Lab2/view_users.php:0
