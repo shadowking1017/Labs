@@ -1,0 +1,186 @@
+[25-Sep-2018 23:21:50 UTC] PHP Parse error:  syntax error, unexpected '$q' (T_VARIABLE) in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 14
+[25-Sep-2018 23:21:55 UTC] PHP Parse error:  syntax error, unexpected '$q' (T_VARIABLE) in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 14
+[25-Sep-2018 23:22:00 UTC] PHP Parse error:  syntax error, unexpected '$q' (T_VARIABLE) in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 14
+[26-Sep-2018 14:14:52 UTC] PHP Parse error:  syntax error, unexpected '$q' (T_VARIABLE) in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 14
+[26-Sep-2018 14:15:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 14:15:11 UTC] PHP Stack trace:
+[26-Sep-2018 14:15:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 14:15:11 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 14:15:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 14:15:17 UTC] PHP Stack trace:
+[26-Sep-2018 14:15:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 14:15:17 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 14:16:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 14:16:58 UTC] PHP Stack trace:
+[26-Sep-2018 14:16:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 14:16:58 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 14:17:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 14:17:02 UTC] PHP Stack trace:
+[26-Sep-2018 14:17:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 14:17:02 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 14:18:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 14:18:07 UTC] PHP Stack trace:
+[26-Sep-2018 14:18:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 14:18:07 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 14:18:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 14:18:10 UTC] PHP Stack trace:
+[26-Sep-2018 14:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 14:18:10 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 14:19:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 14:19:31 UTC] PHP Stack trace:
+[26-Sep-2018 14:19:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 14:19:31 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 14:27:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 14:27:20 UTC] PHP Stack trace:
+[26-Sep-2018 14:27:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 14:27:20 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 14:27:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 14:27:23 UTC] PHP Stack trace:
+[26-Sep-2018 14:27:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 14:27:23 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 14:33:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 14:33:55 UTC] PHP Stack trace:
+[26-Sep-2018 14:33:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 14:33:55 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 14:52:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 14:52:00 UTC] PHP Stack trace:
+[26-Sep-2018 14:52:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 14:52:00 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 15:03:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 15:03:17 UTC] PHP Stack trace:
+[26-Sep-2018 15:03:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 15:03:17 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 15:05:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 15:05:17 UTC] PHP Stack trace:
+[26-Sep-2018 15:05:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 15:05:17 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 15:05:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 18
+[26-Sep-2018 15:05:27 UTC] PHP Stack trace:
+[26-Sep-2018 15:05:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 15:05:27 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:18
+[26-Sep-2018 15:45:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 19
+[26-Sep-2018 15:45:52 UTC] PHP Stack trace:
+[26-Sep-2018 15:45:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 15:45:52 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:19
+[26-Sep-2018 15:57:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 19
+[26-Sep-2018 15:57:03 UTC] PHP Stack trace:
+[26-Sep-2018 15:57:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[26-Sep-2018 15:57:03 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:19
+[27-Sep-2018 22:22:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 19
+[27-Sep-2018 22:22:46 UTC] PHP Stack trace:
+[27-Sep-2018 22:22:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[27-Sep-2018 22:22:46 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:19
+[27-Sep-2018 22:22:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 19
+[27-Sep-2018 22:22:56 UTC] PHP Stack trace:
+[27-Sep-2018 22:22:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[27-Sep-2018 22:22:56 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:19
+[27-Sep-2018 22:25:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 19
+[27-Sep-2018 22:25:09 UTC] PHP Stack trace:
+[27-Sep-2018 22:25:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[27-Sep-2018 22:25:09 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:19
+[27-Sep-2018 22:25:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 19
+[27-Sep-2018 22:25:16 UTC] PHP Stack trace:
+[27-Sep-2018 22:25:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[27-Sep-2018 22:25:16 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:19
+[27-Sep-2018 22:25:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 19
+[27-Sep-2018 22:25:19 UTC] PHP Stack trace:
+[27-Sep-2018 22:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[27-Sep-2018 22:25:19 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:19
+[27-Sep-2018 22:27:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 19
+[27-Sep-2018 22:27:31 UTC] PHP Stack trace:
+[27-Sep-2018 22:27:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[27-Sep-2018 22:27:31 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:19
+[27-Sep-2018 22:27:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 19
+[27-Sep-2018 22:27:32 UTC] PHP Stack trace:
+[27-Sep-2018 22:27:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[27-Sep-2018 22:27:32 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:19
+[27-Sep-2018 22:27:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 19
+[27-Sep-2018 22:27:33 UTC] PHP Stack trace:
+[27-Sep-2018 22:27:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[27-Sep-2018 22:27:33 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:19
+[27-Sep-2018 22:34:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[27-Sep-2018 22:34:07 UTC] PHP Stack trace:
+[27-Sep-2018 22:34:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[27-Sep-2018 22:34:07 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[27-Sep-2018 22:34:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[27-Sep-2018 22:34:13 UTC] PHP Stack trace:
+[27-Sep-2018 22:34:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[27-Sep-2018 22:34:13 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[27-Sep-2018 22:34:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[27-Sep-2018 22:34:15 UTC] PHP Stack trace:
+[27-Sep-2018 22:34:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[27-Sep-2018 22:34:15 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[27-Sep-2018 22:46:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[27-Sep-2018 22:46:28 UTC] PHP Stack trace:
+[27-Sep-2018 22:46:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[27-Sep-2018 22:46:28 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[27-Sep-2018 22:47:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[27-Sep-2018 22:47:15 UTC] PHP Stack trace:
+[27-Sep-2018 22:47:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[27-Sep-2018 22:47:15 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[27-Sep-2018 23:03:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[27-Sep-2018 23:03:09 UTC] PHP Stack trace:
+[27-Sep-2018 23:03:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[27-Sep-2018 23:03:09 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[27-Sep-2018 23:05:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[27-Sep-2018 23:05:58 UTC] PHP Stack trace:
+[27-Sep-2018 23:05:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[27-Sep-2018 23:05:58 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[27-Sep-2018 23:07:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[27-Sep-2018 23:07:18 UTC] PHP Stack trace:
+[27-Sep-2018 23:07:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[27-Sep-2018 23:07:18 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[01-Oct-2018 01:58:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[01-Oct-2018 01:58:01 UTC] PHP Stack trace:
+[01-Oct-2018 01:58:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[01-Oct-2018 01:58:01 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[01-Oct-2018 01:58:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[01-Oct-2018 01:58:54 UTC] PHP Stack trace:
+[01-Oct-2018 01:58:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[01-Oct-2018 01:58:54 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[01-Oct-2018 01:58:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[01-Oct-2018 01:58:55 UTC] PHP Stack trace:
+[01-Oct-2018 01:58:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[01-Oct-2018 01:58:55 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[01-Oct-2018 02:01:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[01-Oct-2018 02:01:52 UTC] PHP Stack trace:
+[01-Oct-2018 02:01:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[01-Oct-2018 02:01:52 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[01-Oct-2018 02:03:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 17
+[01-Oct-2018 02:03:24 UTC] PHP Stack trace:
+[01-Oct-2018 02:03:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[01-Oct-2018 02:03:24 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:17
+[01-Oct-2018 02:03:49 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 22
+[01-Oct-2018 02:03:51 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 22
+[01-Oct-2018 02:04:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/view_users.php on line 17
+[01-Oct-2018 02:04:57 UTC] PHP Stack trace:
+[01-Oct-2018 02:04:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:0
+[01-Oct-2018 02:04:57 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/view_users.php:17
+[01-Oct-2018 02:25:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[01-Oct-2018 02:25:06 UTC] PHP Stack trace:
+[01-Oct-2018 02:25:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[01-Oct-2018 02:25:06 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[01-Oct-2018 02:25:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[01-Oct-2018 02:25:16 UTC] PHP Stack trace:
+[01-Oct-2018 02:25:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[01-Oct-2018 02:25:16 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[01-Oct-2018 02:25:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[01-Oct-2018 02:25:31 UTC] PHP Stack trace:
+[01-Oct-2018 02:25:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[01-Oct-2018 02:25:31 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[01-Oct-2018 02:26:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[01-Oct-2018 02:26:59 UTC] PHP Stack trace:
+[01-Oct-2018 02:26:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[01-Oct-2018 02:26:59 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[01-Oct-2018 02:46:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[01-Oct-2018 02:46:15 UTC] PHP Stack trace:
+[01-Oct-2018 02:46:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[01-Oct-2018 02:46:15 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[01-Oct-2018 02:48:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[01-Oct-2018 02:48:06 UTC] PHP Stack trace:
+[01-Oct-2018 02:48:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[01-Oct-2018 02:48:06 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16
+[01-Oct-2018 02:51:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php on line 16
+[01-Oct-2018 02:51:08 UTC] PHP Stack trace:
+[01-Oct-2018 02:51:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:0
+[01-Oct-2018 02:51:08 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/Assignments/Assignment1/user_handle.php:16

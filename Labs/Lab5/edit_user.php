@@ -17,7 +17,7 @@ if ( (isset($_GET['id'])) && (is_numeric($_GET['id'])) ) { // From view_users.ph
 	exit();
 }
 
-require('../mysqli_connect.php');
+require('mysqli_connect.php');
 
 // Check if the form has been submitted:
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
