@@ -16,3 +16,15 @@
 [22-Sep-2018 01:47:21 UTC] PHP Fatal error:  Cannot redeclare create_ad() (previously declared in /home/ubuntu/workspace/Labs/Lab5/index.php:5) in /home/ubuntu/workspace/Labs/Lab5/index.php on line 5
 [22-Sep-2018 01:47:21 UTC] PHP Stack trace:
 [22-Sep-2018 01:47:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Labs/Lab5/index.php:0
+[29-Sep-2018 00:42:54 UTC] PHP Warning:  require(mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Labs/Lab3/view_pw.php on line 10
+[29-Sep-2018 00:42:54 UTC] PHP Stack trace:
+[29-Sep-2018 00:42:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Labs/Lab3/view_pw.php:0
+[29-Sep-2018 00:42:54 UTC] PHP Fatal error:  require(): Failed opening required 'mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Labs/Lab3/view_pw.php on line 10
+[29-Sep-2018 00:42:54 UTC] PHP Stack trace:
+[29-Sep-2018 00:42:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Labs/Lab3/view_pw.php:0
+[29-Sep-2018 00:43:14 UTC] PHP Warning:  require(mysqli_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Labs/Lab3/view_pw.php on line 10
+[29-Sep-2018 00:43:14 UTC] PHP Stack trace:
+[29-Sep-2018 00:43:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Labs/Lab3/view_pw.php:0
+[29-Sep-2018 00:43:14 UTC] PHP Fatal error:  require(): Failed opening required 'mysqli_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Labs/Lab3/view_pw.php on line 10
+[29-Sep-2018 00:43:14 UTC] PHP Stack trace:
+[29-Sep-2018 00:43:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Labs/Lab3/view_pw.php:0
