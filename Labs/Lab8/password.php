@@ -1,8 +1,14 @@
 <?php # Script 9.7 - password.php
 // This page lets a user change their password.
 
-$page_title = 'Update Your Information';
+$page_title = 'Change Your Password';
 include('includes/header.html');
+
+ 
+    if(!isset($_SESSION['email'])) {
+    die("Please login");
+}
+
 
 // Check for form submission:
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {

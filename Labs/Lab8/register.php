@@ -48,13 +48,15 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 		// Register the user in the database...
 
 		// Make the query:
-		$q = "INSERT INTO users (first_name, last_name, email, pass) VALUES ('$fn', '$ln', '$e', SHA2('$p', 512), NOW() )";
+		$q = "INSERT INTO users (first_name, last_name, email, pass, registration_date) VALUES ('$fn', '$ln', '$e', SHA2('$p', 512), NOW() )";
 		$r = @mysqli_query($dbc, $q); // Run the query.
 		if ($r) { // If it ran OK.
 
 			// Print a message:
 			echo '<h1>Thank you!</h1>
-		<p>You are now registered. In Chapter 12 you will actually be able to log in!</p><p><br></p>';
+		<p>You are now registered!</p><p><br></p>';
+
+         echo '<meta http-equiv="refresh" content="1; URL=login_page.inc.php" />';
 
 		} else { // If it did not run OK.
 
